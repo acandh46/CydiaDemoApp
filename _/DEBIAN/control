@@ -1,0 +1,11 @@
+Package: com.nehokstore.testpp
+Name: Testpp
+Depends: 
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: alpian
+Author: alpian
+Section: System
+Tag: role::hacker
+Version: 0.0.1-1
+Installed-Size: 52
